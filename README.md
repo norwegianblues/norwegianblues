@@ -1,2 +1,2 @@
-See wiki: http://https://github.com/norwegianblues/norwegianblues/wiki
+See wiki: https://github.com/norwegianblues/norwegianblues/wiki
 
